@@ -1,4 +1,5 @@
 # 💫 About Me:
+Fresh graduate from Cairo University, Faculty of Engineering, Systems and Biomedical Department
 I'm looking for an opportunity to qualify me for entering the Data science field and develop my knowledge
 
 
